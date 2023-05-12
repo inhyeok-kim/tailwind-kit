@@ -1,9 +1,9 @@
 import React from 'react';
-import Template from './template/Template';
+import { TextInput } from './input/Inputs';
 
 function App() {
   return (
-    <Template />
+    <TextInput  />
   );
 }
 
